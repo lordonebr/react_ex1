@@ -8,12 +8,12 @@ import { SideBarComponent } from './components/SideBarComponent/SideBarComponent
 function App() {
   return (
     <div>
-      <div class="module">
+      <div>
         <HeaderComponent 
           title="Xbox News"
           items={["Topic 1", "Topic 2", "Topic 3", "Topic 4"]} />
       </div>
-      <div class="module">
+      <div>
         <MenuComponent 
           items={["Section 1", "Section 2", "Section 3", "Section 4"]} />
           <ContainerComponent />

@@ -18,5 +18,4 @@ Professor: Samuel Martins
 ```
    
 - URL para visualização no Heroku:  
-``` 
 https://react-ex1.herokuapp.com/

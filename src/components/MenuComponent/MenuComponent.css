@@ -1,0 +1,15 @@
+.navStyle  {
+    text-align: center;
+    font-size: 20px;
+    margin-top: 20px;
+    padding: 5px;
+    width: 100%;
+    float: left;
+    background:  green;
+}
+
+.itemNav {
+    margin: 10px;
+    text-decoration: none;
+    color: white;
+}

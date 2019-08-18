@@ -1,0 +1,22 @@
+.postItem {
+    clear: left;
+    margin-left: 10px;
+}
+
+.image {
+    height: 250px;
+    width: 400px;
+    float: left;
+}
+
+.text {
+    height: 240px;
+    width: 450px;
+    padding: 5px;
+    border-style: solid;
+    border-width: 1px;
+    position: relative;
+    margin-left: 420px;
+    
+    background: greenyellow;
+}

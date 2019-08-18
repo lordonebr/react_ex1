@@ -8,10 +8,15 @@ Disciplina: Frameworks front end: React (FFR)
 Professor: Samuel Martins
 
 - COMANDO para SUBIR o serviço:
-  ```
+```
   npm start
+```  
     
 - URL para acesso do projeto no browser:  
 ```
     http://localhost:3000/
+```
    
+- URL para visualização no Heroku:  
+``` 
+https://react-ex1.herokuapp.com/
